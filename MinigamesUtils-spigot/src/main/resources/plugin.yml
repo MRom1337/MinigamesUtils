@@ -1,0 +1,8 @@
+name: MinigamesUtils
+version: '${project.version}'
+main: org.mrom.mgu.minigamesutils.MinigamesUtilsSpigot
+api-version: 1.17
+authors: [ MRom ]
+commands:
+  connect:
+    usage: {}

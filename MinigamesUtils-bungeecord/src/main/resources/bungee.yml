@@ -1,0 +1,3 @@
+name: MinigamesUtils
+version: '${project.version}'
+main: org.mrom.mgu.minigamesutils.MinigamesUtilsBungeeCord
